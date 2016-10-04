@@ -14,6 +14,7 @@
 		54A5A97F1DA3A3110043D05A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54A5A97D1DA3A3110043D05A /* LaunchScreen.storyboard */; };
 		54A5A98A1DA3A3110043D05A /* firstappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5A9891DA3A3110043D05A /* firstappTests.swift */; };
 		54A5A9951DA3A3110043D05A /* firstappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5A9941DA3A3110043D05A /* firstappUITests.swift */; };
+		54A5A9A31DA3B14B0043D05A /* PercentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54A5A9A21DA3B14B0043D05A /* PercentViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		54A5A9901DA3A3110043D05A /* firstappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = firstappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		54A5A9941DA3A3110043D05A /* firstappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = firstappUITests.swift; sourceTree = "<group>"; };
 		54A5A9961DA3A3110043D05A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54A5A9A21DA3B14B0043D05A /* PercentViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PercentViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				54A5A9741DA3A3100043D05A /* AppDelegate.swift */,
 				54A5A9761DA3A3100043D05A /* ViewController.swift */,
+				54A5A9A21DA3B14B0043D05A /* PercentViewController.swift */,
 				54A5A9781DA3A3100043D05A /* Main.storyboard */,
 				54A5A97B1DA3A3110043D05A /* Assets.xcassets */,
 				54A5A97D1DA3A3110043D05A /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				54A5A9771DA3A3100043D05A /* ViewController.swift in Sources */,
 				54A5A9751DA3A3100043D05A /* AppDelegate.swift in Sources */,
+				54A5A9A31DA3B14B0043D05A /* PercentViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

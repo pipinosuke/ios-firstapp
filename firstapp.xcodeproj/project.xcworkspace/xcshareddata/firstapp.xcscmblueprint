@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E0551B644E56CA69F01443A787F601D73B49EAD9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71C369F0B9B5E728C255E74281DD6B2DC9AF7334" : 0,
+    "E0551B644E56CA69F01443A787F601D73B49EAD9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0C459B1F-0830-4693-8AC8-1D1C07787EC9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71C369F0B9B5E728C255E74281DD6B2DC9AF7334" : "..",
+    "E0551B644E56CA69F01443A787F601D73B49EAD9" : "firstapp\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "firstapp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "firstapp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "bitbucket.org:pipinosuke\/sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71C369F0B9B5E728C255E74281DD6B2DC9AF7334"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:pipinosuke\/ios-firstapp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E0551B644E56CA69F01443A787F601D73B49EAD9"
+    }
+  ]
+}

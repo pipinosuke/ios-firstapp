@@ -10,6 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var priceField: UITextField!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -21,5 +22,57 @@ class ViewController: UIViewController {
     }
 
 
-}
+    
+    @IBAction func tap0Button(sender: AnyObject) {
+        let value = priceField.text! + "0"
+        if let price = Int(value){
+        priceField.text = "\(price)"}
+    }
+    
+    
+    @IBAction func tap1Button(sender: AnyObject) {
+        let value = priceField.text! + "1"
+        if let price = Int(value) {
+            priceField.text = "\(price)"
+        }
+    }
+    
+    
+    
+    @IBAction func tap2Button(sender: AnyObject) {
+        let value = priceField.text! + "2"
+        if let price = Int(value){
+            priceField.text = "\(price)"
+        }
+        
+    }
+    
+    
+    
+    @IBAction func tap3Button(sender: AnyObject) {
+        let value = priceField.text! + "3"
+        if let price = Int(value) {
+            priceField.text = "\(price)"
+        }
+    }
+    
+    
+    @IBAction func tap4Button(sender: AnyObject) {
+        let value = priceField.text!
+        if let price = Int(value) {
+            priceField.text = "\(price)"
+        }
+        
+    }
+    
+    
+ 
+    @IBAction func tapCButton(sender: AnyObject) {
+        priceField.text!="0"
+        
+    }
+    
+    
+  }
+
 
